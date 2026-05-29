@@ -24,9 +24,9 @@
     {
       "name": "zentao_task",
       "file": "zentao_task.lua",
-      "description": "禅道项目管理：显示待办任务数，点击查看详情",
+      "description": "禅道项目管理：表格展示任务，点击打开详情",
       "author": "bestK",
-      "version": "1.0"
+      "version": "1.1"
     },
     {
       "name": "oracle_sessions",
@@ -67,6 +67,13 @@
       "name": "image_dialog_demo",
       "file": "image_dialog_demo.lua",
       "description": "图文混排对话框演示",
+      "author": "bestK",
+      "version": "1.0"
+    },
+    {
+      "name": "novel_reader",
+      "file": "novel_reader.lua",
+      "description": "任务栏摸鱼小说阅读器，自动翻页，支持跳转",
       "author": "bestK",
       "version": "1.0"
     }
