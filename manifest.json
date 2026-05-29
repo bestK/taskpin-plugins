@@ -54,6 +54,20 @@
       "file": "claude_status.lua",
       "description": "Claude Code 实时状态指示器，读 session 文件判断工作状态",
       "author": "bestK",
+      "version": "1.1"
+    },
+    {
+      "name": "hud_clock",
+      "file": "hud_clock.lua",
+      "description": "桌面悬浮时钟（无边框 + 半透明 + 点击穿透）",
+      "author": "bestK",
+      "version": "1.0"
+    },
+    {
+      "name": "image_dialog_demo",
+      "file": "image_dialog_demo.lua",
+      "description": "图文混排对话框演示",
+      "author": "bestK",
       "version": "1.0"
     }
   ]
