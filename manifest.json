@@ -1,81 +1,16 @@
 {
   "scripts": [
-    {
-      "name": "example",
-      "file": "example.lua",
-      "description": "入门示例：HTTP 请求 + JSON 解析 + 参数声明",
-      "author": "bestK",
-      "version": "1.0"
-    },
-    {
-      "name": "newapi_balance",
-      "file": "newapi_balance.lua",
-      "description": "查询 AI API 账户余额并显示在任务栏",
-      "author": "bestK",
-      "version": "1.0"
-    },
-    {
-      "name": "rich_text_demo",
-      "file": "rich_text_demo.lua",
-      "description": "font() 富文本演示：多色、多行、左右对齐",
-      "author": "bestK",
-      "version": "1.0"
-    },
-    {
-      "name": "zentao_task",
-      "file": "zentao_task.lua",
-      "description": "禅道项目管理：表格展示任务，点击打开详情",
-      "author": "bestK",
-      "version": "1.1"
-    },
-    {
-      "name": "oracle_sessions",
-      "file": "oracle_sessions.lua",
-      "description": "Oracle 数据库会话监控，多实例支持，颜色预警",
-      "author": "bestK",
-      "version": "1.0"
-    },
-    {
-      "name": "system_monitor",
-      "file": "system_monitor.lua",
-      "description": "系统监控：网速 + CPU + 内存，纯 sys.* API",
-      "author": "bestK",
-      "version": "1.0"
-    },
-    {
-      "name": "net_monitor",
-      "file": "net_monitor.lua",
-      "description": "网络进程监控：显示有活跃连接的进程及流量",
-      "author": "bestK",
-      "version": "1.0"
-    },
-    {
-      "name": "claude_status",
-      "file": "claude_status.lua",
-      "description": "Claude Code 实时状态指示器，读 session 文件判断工作状态",
-      "author": "bestK",
-      "version": "1.1"
-    },
-    {
-      "name": "hud_clock",
-      "file": "hud_clock.lua",
-      "description": "桌面悬浮时钟（无边框 + 半透明 + 点击穿透）",
-      "author": "bestK",
-      "version": "1.0"
-    },
-    {
-      "name": "image_dialog_demo",
-      "file": "image_dialog_demo.lua",
-      "description": "图文混排对话框演示",
-      "author": "bestK",
-      "version": "1.0"
-    },
-    {
-      "name": "novel_reader",
-      "file": "novel_reader.lua",
-      "description": "任务栏摸鱼小说阅读器，自动翻页，支持跳转",
-      "author": "bestK",
-      "version": "1.0"
-    }
+    { "name": "example", "file": "example.lua", "description": "入门示例：HTTP 请求 + JSON 解析 + 参数声明", "author": "bestK", "version": "1.0" },
+    { "name": "newapi_balance", "file": "newapi_balance.lua", "description": "查询 AI API 账户余额并显示在任务栏", "author": "bestK", "version": "1.0" },
+    { "name": "rich_text_demo", "file": "rich_text_demo.lua", "description": "font() 富文本演示：多色、多行、左右对齐", "author": "bestK", "version": "1.0" },
+    { "name": "zentao_task", "file": "zentao_task.lua", "description": "禅道项目管理：表格展示任务，点击打开详情", "author": "bestK", "version": "1.1" },
+    { "name": "oracle_sessions", "file": "oracle_sessions.lua", "description": "Oracle 数据库会话监控，多实例支持，颜色预警", "author": "bestK", "version": "1.0" },
+    { "name": "system_monitor", "file": "system_monitor.lua", "description": "系统监控：网速 + CPU + 内存，纯 sys.* API", "author": "bestK", "version": "1.0" },
+    { "name": "net_monitor", "file": "net_monitor.lua", "description": "网络进程监控：显示有活跃连接的进程及流量", "author": "bestK", "version": "1.0" },
+    { "name": "claude_status", "file": "claude_status.lua", "description": "Claude Code 实时状态指示器，读 session 文件判断工作状态", "author": "bestK", "version": "1.1" },
+    { "name": "hud_clock", "file": "hud_clock.lua", "description": "桌面悬浮时钟（无边框 + 半透明 + 点击穿透）", "author": "bestK", "version": "1.0" },
+    { "name": "image_dialog_demo", "file": "image_dialog_demo.lua", "description": "图文混排对话框演示", "author": "bestK", "version": "1.0" },
+    { "name": "novel_reader", "file": "novel_reader.lua", "description": "任务栏摸鱼小说阅读器，自动翻页，支持跳转", "author": "bestK", "version": "1.0" },
+    { "name": "zeeho", "file": "zeeho.lua", "description": "Zeeho 电动车状态监控", "author": "bestK", "version": "1.0" }
   ]
 }
