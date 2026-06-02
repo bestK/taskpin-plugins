@@ -7,7 +7,7 @@
     { "name": "oracle_sessions", "file": "oracle_sessions.lua", "description": "Oracle 数据库会话监控，多实例支持，颜色预警", "author": "bestK", "version": "1.0" },
     { "name": "system_monitor", "file": "system_monitor.lua", "description": "系统监控：网速 + CPU + 内存，纯 sys.* API", "author": "bestK", "version": "1.0" },
     { "name": "net_monitor", "file": "net_monitor.lua", "description": "网络进程监控：显示有活跃连接的进程及流量", "author": "bestK", "version": "1.0" },
-    { "name": "claude_status", "file": "claude_status.lua", "description": "Claude Code 实时状态指示器，读 session 文件判断工作状态", "author": "bestK", "version": "1.1" },
+    { "name": "claude_status", "file": "claude_status.lua", "description": "Claude Code 状态指示器，Hook 驱动权限按钮，一键安装/卸载", "author": "bestK", "version": "2.0" },
     { "name": "hud_clock", "file": "hud_clock.lua", "description": "桌面悬浮时钟（无边框 + 半透明 + 点击穿透）", "author": "bestK", "version": "1.0" },
     { "name": "image_dialog_demo", "file": "image_dialog_demo.lua", "description": "图文混排对话框演示", "author": "bestK", "version": "1.0" },
     { "name": "novel_reader", "file": "novel_reader.lua", "description": "任务栏摸鱼小说阅读器，自动翻页，支持跳转", "author": "bestK", "version": "1.0" },
@@ -15,6 +15,7 @@
     { "name": "docker_status", "file": "docker_status.lua", "description": "Docker 容器状态监控，显示运行/停止数量及详情", "author": "bestK", "version": "1.0" },
     { "name": "github_ci", "file": "github_ci.lua", "description": "GitHub Actions CI 状态监控，实时显示工作流运行结果", "author": "bestK", "version": "1.0" },
     { "name": "crypto_price", "file": "crypto_price.lua", "description": "加密货币实时价格监控，支持多币种，24h涨跌幅", "author": "bestK", "version": "1.0" },
-    { "name": "homeassistant", "file": "homeassistant.lua", "description": "Home Assistant 智能家居设备状态监控", "author": "bestK", "version": "1.0" }
+    { "name": "homeassistant", "file": "homeassistant.lua", "description": "Home Assistant 智能家居设备状态监控", "author": "bestK", "version": "1.0" },
+    { "name": "desktop_goose", "file": "desktop_goose.lua", "description": "桌面宠物鹅：随机行走、追鼠标、睡觉、啄地，sprite 帧动画", "author": "bestK", "version": "1.0" }
   ]
 }
