@@ -5,6 +5,7 @@ on:
     branches: [master]
     paths:
       - '**.lua'
+  workflow_dispatch:
 
 jobs:
   update:
