@@ -64,6 +64,13 @@
       "version": "1.0"
     },
     {
+      "file": "hud_key_indicator.lua",
+      "name": "hud_key_indicator",
+      "description": "实时按键指示器 HUD",
+      "author": "bestK",
+      "version": "1.0"
+    },
+    {
       "file": "image_dialog_demo.lua",
       "name": "image_dialog_demo",
       "description": "图文混排对话框演示",
