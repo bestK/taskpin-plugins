@@ -8,7 +8,7 @@ import re
 REPO = "bestK/taskpin-plugins"
 BRANCH = "master"
 RAW_BASE = f"https://raw.githubusercontent.com/{REPO}/{BRANCH}"
-INSTALL_BASE = f"taskpin://install/{RAW_BASE}"
+PAGES_BASE = "https://bestk.github.io/taskpin-plugins"
 
 IGNORED_FILES = {"goose_sprites.png", "claude.png", "claude_spinner.gif"}
 
@@ -81,7 +81,8 @@ def main():
 |------|-------------|---------|---------|
 """
     for s in scripts:
-        install_url = f"{INSTALL_BASE}/{s['file']}"
+        raw_url = f"{RAW_BASE}/{s['file']}"
+        install_url = f"{PAGES_BASE}/install.html?url={raw_url}"
         badge = f"[![Install](https://img.shields.io/badge/TaskPin-Install-blue)]({install_url})"
         readme += f"| {s['name']} | {s['description']} | {s['version']} | {badge} |\n"
 
