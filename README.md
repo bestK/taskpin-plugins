@@ -27,6 +27,7 @@
 | oracle_sessions |  | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/oracle_sessions.lua) |
 | rich_text_demo |  | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/rich_text_demo.lua) |
 | system_monitor |  | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/system_monitor.lua) |
+| webview_demo | WebView2 嵌入示例 | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/webview_demo.lua) |
 | zeeho | Zeeho 电动车状态监控 | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/zeeho.lua) |
 | zentao_task |  | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/zentao_task.lua) |
 

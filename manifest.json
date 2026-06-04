@@ -120,6 +120,13 @@
       "version": "1.0"
     },
     {
+      "file": "webview_demo.lua",
+      "name": "webview_demo",
+      "description": "WebView2 嵌入示例",
+      "author": "bestK",
+      "version": "1.0"
+    },
+    {
       "file": "zeeho.lua",
       "name": "zeeho",
       "description": "Zeeho 电动车状态监控",
