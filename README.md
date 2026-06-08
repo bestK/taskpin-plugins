@@ -10,13 +10,14 @@
 
 | Name | Description | Version | Install |
 |------|-------------|---------|---------|
-| claude_status | Claude Code 状态指示器 | 1.0.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/claude_status.lua) |
+| claude_status | Claude Code 状态指示器 | 1.1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/claude_status.lua) |
 | crypto_price |  | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/crypto_price.lua) |
 | Desktop Goose |  | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/desktop_goose.lua) |
 | dino_runner | Chrome Dino Game on TaskPin bar | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/dino_runner.lua) |
 | docker_status |  | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/docker_status.lua) |
 | example |  | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/example.lua) |
 | github_ci |  | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/github_ci.lua) |
+| github_trending | GitHub Trending 热门仓库 | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/github_trending.lua) |
 | homeassistant |  | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/homeassistant.lua) |
 | hud_clock | 桌面悬浮时钟 (无边框 + 半透明 + 点击穿透) | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/hud_clock.lua) |
 | hud_key_indicator | 实时按键指示器 HUD | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/hud_key_indicator.lua) |
@@ -27,6 +28,7 @@
 | oracle_sessions |  | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/oracle_sessions.lua) |
 | rich_text_demo |  | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/rich_text_demo.lua) |
 | system_monitor |  | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/system_monitor.lua) |
+| websocket_demo | WebSocket 连接演示 | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/websocket_demo.lua) |
 | webview_demo | WebView2 嵌入示例 | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/webview_demo.lua) |
 | zeeho | Zeeho 电动车状态监控 | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/zeeho.lua) |
 | zentao_task |  | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/zentao_task.lua) |
