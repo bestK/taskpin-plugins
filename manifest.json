@@ -64,6 +64,13 @@
       "version": "1.0"
     },
     {
+      "file": "hotkey_selection.lua",
+      "name": "hotkey_selection",
+      "description": "快捷键获取选中内容演示",
+      "author": "bestK",
+      "version": "1.0"
+    },
+    {
       "file": "hud_clock.lua",
       "name": "hud_clock",
       "description": "桌面悬浮时钟 (无边框 + 半透明 + 点击穿透)",
