@@ -106,6 +106,13 @@
       "version": "1.0"
     },
     {
+      "file": "kline_demo.lua",
+      "name": "BTC K-Line",
+      "description": "BTC/USDT K-Line chart",
+      "author": "bestK",
+      "version": "1.0"
+    },
+    {
       "file": "net_monitor.lua",
       "name": "net_monitor",
       "description": "",
