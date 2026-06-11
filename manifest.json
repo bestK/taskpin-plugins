@@ -15,6 +15,13 @@
       "version": "1.1.0"
     },
     {
+      "file": "binance_ticker.lua",
+      "name": "binance_ticker",
+      "description": "币安实时币价 (WebSocket 推送 BTC/ETH/SOL)",
+      "author": "bestK",
+      "version": "1.0"
+    },
+    {
       "file": "crypto_price.lua",
       "name": "crypto_price",
       "description": "",
