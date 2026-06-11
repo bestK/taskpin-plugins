@@ -84,7 +84,8 @@ def main():
         raw_url = f"{RAW_BASE}/{s['file']}"
         install_url = f"{PAGES_BASE}/install.html?url={raw_url}"
         badge = f"[![Install](https://img.shields.io/badge/TaskPin-Install-blue)]({install_url})"
-        readme += f"| {s['name']} | {s['description']} | {s['version']} | {badge} |\n"
+        name_link = f"[{s['name']}]({s['file']})"
+        readme += f"| {name_link} | {s['description']} | {s['version']} | {badge} |\n"
 
     readme += f"""
 ---
