@@ -3,10 +3,9 @@
     {
       "file": "animation_demo.lua",
       "name": "Animation Demo",
-      "description": "动画特效演示 (blink/pulse/fade/fly/bounce)",
+      "description": "Animation effects showcase",
       "author": "bestK",
-      "version": "1.0.0",
-      "require": "1.6.0"
+      "version": "1.0"
     },
     {
       "file": "claude_status.lua",

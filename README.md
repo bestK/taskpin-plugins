@@ -10,6 +10,7 @@
 
 | Name | Description | Version | Install |
 |------|-------------|---------|---------|
+| Animation Demo | Animation effects showcase | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/animation_demo.lua) |
 | claude_status | Claude Code 状态指示器 | 1.1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/claude_status.lua) |
 | crypto_price |  | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/crypto_price.lua) |
 | Desktop Goose |  | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/desktop_goose.lua) |
