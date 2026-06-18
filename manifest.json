@@ -10,9 +10,9 @@
     {
       "file": "asxs_billing_state.lua",
       "name": "ASXS 状态",
-      "description": "ASXS 计费状态、服务可用性和最近请求日志",
+      "description": "ASXS 计费状态 + 服务可用性",
       "author": "bestK",
-      "version": "1.1"
+      "version": "1.0"
     },
     {
       "file": "binance_ticker.lua",
