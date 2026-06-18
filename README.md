@@ -11,6 +11,7 @@
 | Name | Description | Version | Install |
 |------|-------------|---------|---------|
 | [Animation Demo](animation_demo.lua) | Animation effects showcase | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/animation_demo.lua) |
+| [ASXS 状态](asxs_billing_state.lua) | ASXS 计费状态 + 服务可用性 | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/asxs_billing_state.lua) |
 | [binance_ticker](binance_ticker.lua) | 币安实时币价 (WebSocket) | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/binance_ticker.lua) |
 | [claude_status](claude_status.lua) | Claude Code 状态指示器 | 1.1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/claude_status.lua) |
 | [crypto_price](crypto_price.lua) |  | 1.0 | [![Install](https://img.shields.io/badge/TaskPin-Install-blue)](https://bestk.github.io/taskpin-plugins/install.html?url=https://raw.githubusercontent.com/bestK/taskpin-plugins/master/crypto_price.lua) |

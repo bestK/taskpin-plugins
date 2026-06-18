@@ -8,6 +8,13 @@
       "version": "1.0"
     },
     {
+      "file": "asxs_billing_state.lua",
+      "name": "ASXS 状态",
+      "description": "ASXS 计费状态 + 服务可用性",
+      "author": "bestK",
+      "version": "1.0"
+    },
+    {
       "file": "binance_ticker.lua",
       "name": "binance_ticker",
       "description": "币安实时币价 (WebSocket)",
